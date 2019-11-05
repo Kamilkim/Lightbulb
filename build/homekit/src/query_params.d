@@ -1,0 +1,24 @@
+build/homekit//src/query_params.o: \
+ /home/kamil/projects/esp-homekit-demo/components/common/homekit/src/query_params.c \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/stdlib.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/machine/ieeefp.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/_ansi.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/newlib.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/_newlib_version.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/config.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/features.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/xtensa/config/core-isa.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/reent.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/_ansi.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/_types.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/machine/_types.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/machine/_default_types.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/lock.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/cdefs.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/machine/stdlib.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/alloca.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/string.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/xlocale.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/strings.h \
+ /home/kamil/projects/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/string.h \
+ /home/kamil/projects/esp-homekit-demo/components/common/homekit/src/query_params.h
