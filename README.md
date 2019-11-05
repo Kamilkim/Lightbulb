@@ -1,2 +1,2 @@
 # Lightbulb
-Lightbulb controlled by Homekit app 1
+Lightbulb controlled by Homekit app 2
