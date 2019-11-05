@@ -5,7 +5,7 @@
 *	ktorego podlaczony jest przycisk.
 * 	Za pomoca wspomnianego przycisku mozna zmieniac 
 *	stan wyjscia oraz po przucisnieciu go na czas 10s 
-*	zresetowac ustawienia WiFi.
+*	zresetowac ustawienia WiFi. Kamil Miedzinski
 *
 *
 */
